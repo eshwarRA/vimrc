@@ -14,3 +14,4 @@ set termencoding=utf-8
 set nocompatible
 set showmatch
 set comments=sl:/*,mb:\ *,elx:\ */
+let g:gruvbox_transparent_bg=1
