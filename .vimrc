@@ -6,6 +6,7 @@ set shiftwidth=6
 set expandtab
 set textwidth=120
 #colorscheme gruvbox
+#set bg=dark
 set t_Co=256
 syntax on
 set enc=utf-8
